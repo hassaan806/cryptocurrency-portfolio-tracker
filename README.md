@@ -26,7 +26,7 @@ pip install requests
 3. Run the script using Python:
 
 ```bash
-python tracker.py
+python project.py
 ```
 
 4. Follow the on-screen instructions to interact with the program.
